@@ -24,14 +24,17 @@ Collection of my Leetcode solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
