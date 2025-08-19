@@ -12,6 +12,7 @@ Collection of my Leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0014-longest-common-prefix) |
+| [0168-excel-sheet-column-title](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0168-excel-sheet-column-title) |
 ## Trie
 |  |
 | ------- |
@@ -51,4 +52,8 @@ Collection of my Leetcode solutions
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0144-binary-tree-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
