@@ -5,15 +5,15 @@ public:
         int score{0};
         
         for(int num : nums){
+            if(score == 0){
+                candidate = num;
+            }
+
             if(num == candidate){
                 score++;
             }
             else{
                 score --;
-                if(score <= 0){
-                    candidate = num;
-                    score = 1;
-                }
             }
         }
         
