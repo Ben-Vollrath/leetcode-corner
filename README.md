@@ -8,6 +8,7 @@ Collection of my Leetcode solutions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Collection of my Leetcode solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -56,4 +58,16 @@ Collection of my Leetcode solutions
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0168-excel-sheet-column-title) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
