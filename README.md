@@ -22,6 +22,7 @@ Collection of my Leetcode solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0190-reverse-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of my Leetcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
