@@ -30,6 +30,7 @@ Collection of my Leetcode solutions
 | [0141-linked-list-cycle](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of my Leetcode solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Collection of my Leetcode solutions
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
