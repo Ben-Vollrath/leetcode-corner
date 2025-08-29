@@ -14,6 +14,7 @@ Collection of my Leetcode solutions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of my Leetcode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
