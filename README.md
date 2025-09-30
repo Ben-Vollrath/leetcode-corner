@@ -10,6 +10,7 @@ Collection of my Leetcode solutions
 | [0136-single-number](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of my Leetcode solutions
 | [0202-happy-number](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -89,4 +91,8 @@ Collection of my Leetcode solutions
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ben-Vollrath/leetcode-corner/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
